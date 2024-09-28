@@ -1,4 +1,4 @@
-<h1>Hello, I am Dylan! <br/><a href="https://github.com/dagriffith0616">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/dylan-griffith-5a058a274">
+<h1>Hello, I am Dylan! <br/><a href="www.linkedin.com/in/dylan-griffith-5a058a274">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
