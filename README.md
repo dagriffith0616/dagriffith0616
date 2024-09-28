@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dylan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello, I am Dylan! <br/><a href="https://github.com/dagriffith0616">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/dylan-griffith-5a058a274">
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
