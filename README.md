@@ -9,7 +9,7 @@
 
 - <b>Just for fun</b>
   - [Snake Game](https://github.com/dagriffith0616/Python_is_the_Snake)
-  - [Pong *work in progress](https://github.com/dagriffith0616/Pongv1)
+  - [Pong *work in progress](https://github.com/dagriffith0616/Pong)
   - [Turtle Crossing](https://github.com/dagriffith0616/Turtle_Crossing)
 
 <h2> 🤳 Connect with me:</h2>
