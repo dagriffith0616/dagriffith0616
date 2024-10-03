@@ -1,4 +1,4 @@
-<h1>Hello, I am Dylan! <br/><a href="https://www.linkedin.com/in/dylan-griffith-5a058a274">Cybersecurity Professional</a>
+<h1>Hello, I am Dylan! <br/><a href="https://www.linkedin.com/in/dylan-griffith-5a058a274">A Cybersecurity Professional</a>
 
 <h2> Cybersecurity Project:</h2>
 
