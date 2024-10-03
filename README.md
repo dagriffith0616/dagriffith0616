@@ -10,10 +10,12 @@
 - <b>Just for fun</b>
   - [Snake Game](https://github.com/dagriffith0616/Python_is_the_Snake)
   - [Pong *work in progress](https://github.com/dagriffith0616/Pongv1)
+  - [Turtle Crossing](https://github.com/dagriffith0616/Turtle_Crossing)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="DylanGriffith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DylanGriffith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
-[linkedin]: "https://www.linkedin.com/in/dylan-griffith-5a058a274"
+[Linkedin]: https://www.linkedin.com/in/dylan-griffith-5a058a274
+
 
