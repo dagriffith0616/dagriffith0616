@@ -5,7 +5,7 @@
 <b>Azure Project</b>
 [Creating a Live SOC and Honeynet in Azure](https://github.com/dagriffith0616/Cloud_SOC)
 
-<h2> Python Project:</h2>
+<h2> Python Projects:</h2>
 
 - <b>Just for fun</b>
   - [Snake Game](https://github.com/dagriffith0616/Python_is_the_Snake)
